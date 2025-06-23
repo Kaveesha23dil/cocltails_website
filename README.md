@@ -1,12 +1,23 @@
-# React + Vite
+# 🍸 Modern Bar Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive and modern website for a bar, designed to enhance the customer experience and showcase the bar's offerings in an elegant and visually appealing way.
 
-Currently, two official plugins are available:
+## 📸 Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<!-- Add screenshots here if available -->
+<!--![Homepage Screenshot](screenshot/Screenshot 2025-06-23 104125.png") -->
 
-## Expanding the ESLint configuration
+## 🧾 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive design for mobile, tablet, and desktop
+- Smooth scrolling and modern UI animations
+- Menu section with categories 
+- Gallery section to showcase ambience and events
+- Social media links and call-to-action buttons
+
+## 🛠️ Tech Stack
+
+- **Framework :** React / Tailwind CSS 
+- **Deployment:** GitHub Pages 
+
+
